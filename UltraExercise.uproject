@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.2",
+	"EngineAssociation": "{02032CBD-4B5C-903C-AD6D-1DAF8A0E3BA2}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,8 +10,7 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android",
-				"HoloLens"
+				"Android"
 			]
 		}
 	],
