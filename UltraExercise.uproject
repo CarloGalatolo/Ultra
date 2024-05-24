@@ -13,6 +13,10 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "MediaFrameworkUtilities",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [

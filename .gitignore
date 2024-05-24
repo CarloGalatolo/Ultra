@@ -81,3 +81,4 @@ Content/StarterContent/*
 
 # Textures that must be stored outside Git.
 Content/Textures
+*.mp4
